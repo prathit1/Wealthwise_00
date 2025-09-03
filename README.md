@@ -14,7 +14,7 @@ WealthWise – AI-Powered Finance Platform
 
 **WealthWise** is a cutting-edge AI-powered finance management platform that empowers users to track spending, manage accounts, and gain insights into their financial health. With features like intelligent budget alerts, automated monthly reports, receipt scanning via AI, and multi-account management – it's your personal finance assistant, reimagined.
 
-🌐 Live Demo : https://wealthwise-iota.vercel.app
+🌐 Live Demo : https://wealthwise-00.vercel.app/
 
 ---
 
