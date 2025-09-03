@@ -164,13 +164,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## ✨ Demo
-🚀 Deployed on [Vercel]((https://wealthwise-00.vercel.app/))
-
-▶️ [View Deployed Project]()
-
----
-
 ## 🙋‍♂️ Author
 
 **Prathit Singh**
